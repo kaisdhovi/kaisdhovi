@@ -1,78 +1,115 @@
-# 👋 Hi, I'm Kais Dhovi!
-
-🎓 **Student | Data Science Enthusiast | Machine Learning Explorer**
-
-Welcome to my GitHub! I’m passionate about uncovering insights and building solutions through data. As a student with a solid foundation in Information Technology, I love diving into predictive analytics, machine learning models, and all things data-driven.
-
----
-
-## 🚀 Skills & Tech Stack
-
-**Languages:**  
-Python
-
-**Data Science / ML Libraries:**  
-Scikit-learn • Pandas • NumPy • Matplotlib • Seaborn
-
-**Core Concepts:**  
-Predictive Modeling • Data Cleaning • Feature Engineering • Time-Series Forecasting • Classification Algorithms
-
-**Tools:**  
-Jupyter Notebook • Google Colab • Git
-
-**Others:**  
-PostgreSQL • Tableau • Excel
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JqbmZpb2E5Zm92NjgybGFhMjVzOWFqazJhcTJ1NGlxbWZnczV0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjoMAgT37/giphy.gif" width="300"/>
+  
+  <h1 align="center">Hi 👋, I'm Kais Dhovi Alfatah</h1>
+  <h3 align="center">A Data Science Student Specializing in Machine Learning & Predictive Analytics</h3>
+</div>
 
 ---
 
-## 🏆 Notable Projects
+### 👨‍💻 About Me
 
-- **Student Performance Prediction using Random Forest Classification (Present)**
-  - Built a model to analyze academic data and classify student performance, supporting data-driven insights in education.
+As a **Data Science** undergraduate at **Universitas Negeri Surabaya**, I am deeply passionate about transforming raw data into actionable insights. With a solid foundation in Information Technology from **MSU, Malaysia**, my focus lies in leveraging machine learning and data modeling to solve real-world problems, particularly within the public and economic sectors. I thrive on combining analytical thinking with clear communication to build impactful, data-driven solutions.
 
-- **SMART SELECTION: ML for Predicting Success & Integrity in University Admissions (SNBP) (Present)**
-  - Designed a system to forecast student success and detect irregularities in admission data, enhancing fairness and transparency.
-
-- **Time-Series Forecasting of Food Prices in Indonesia (Present)**
-  - Developed a model to predict food commodity price fluctuations, aiding decision-making in food supply and policy planning.
-
-- **Household Daily Electricity Usage Prediction (Present)**
-  - Created a time-series model to estimate daily electricity consumption, leveraging Kaggle datasets for energy efficiency insights.
+- 🔭 I’m currently working on a **[sebutkan proyek yang paling fokus saat ini, misal: predictive model for university admissions]**.
+- 🌱 I’m deepening my expertise in **model optimization** and **time-series forecasting**.
+- 👯 I’m looking to collaborate on **open-source data science projects** that create social impact.
+- 📫 You can reach me at **kais.23167@mhs.unesa.ac.id**.
 
 ---
 
-## 🎓 Education & Certifications
+### 🛠️ My Tech Stack
 
-- **Pre-University Programme, Foundation in IT**  
-  Management & Science University (MSU)  
-  Final CGPA: 3.45/4.00
+Here are the tools and technologies I work with:
 
-- **Certifications:**  
-  - Course of Introduction to Machine Learning by Dibimbing (2025)  
-  - Course of Data Cleaning and Machine Learning by Dibimbing (2025)  
-  - Intro to Data Analytic by RevoU (2024)
+<p align="left">
+  <strong>Languages & Databases:</strong><br>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>
+</p>
 
----
+<p align="left">
+  <strong>Data Science & Machine Learning:</strong><br>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/> </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/> </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/matplotlib-%2311557c.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/seaborn-%234682B4.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn"/> </a>
+</p>
 
-## 🌟 Achievements & Activities
-
-- Active in organizations and public speaking since high school
-- 🥉 3rd Place in High School Public Speaking Competition
-
----
-
-## 📢 Let's Connect!
-
-- **Email:** [kais.23167@mhs.unesa.ac.id](mailto:kais.23167@mhs.unesa.ac.id)
-- **Instagram:** [@dhoveee_](https://instagram.com/dhoveee_)
-- **LinkedIn:** [kais-dhovi-alfatah-507162283](https://www.linkedin.com/in/kais-dhovi-alfatah-507162283)
-
----
-
-## 💡 Fun Fact
-
-I thrive on collaborating, sharing knowledge, and making data tell meaningful stories. Whether it's building models or speaking to inspire, I'm always eager to learn and connect!
+<p align="left">
+  <strong>Tools & Platforms:</strong><br>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter"/> </a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/google_colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=black" alt="colab"/> </a>
+</p>
 
 ---
 
-*“Data is the new oil, but insight is the real fuel.”*
+### 🚀 Featured Projects
+
+*Ini adalah highlight dari pekerjaan saya. Klik untuk melihat kode dan detailnya.*
+
+<table>
+<tr>
+<td width="50%">
+  <h4 align="center">SMART SELECTION: University Admissions Prediction</h4>
+  <p>A machine learning system to predict student success and integrity in university admissions, enhancing fairness and efficiency.</p>
+  <p><b>Tech:</b> Python, Scikit-learn</p>
+  <div align="center">
+    <a href="[LINK_REPOSITORI_PROYEK_INI]"><strong>View on GitHub →</strong></a>
+  </div>
+</td>
+<td width="50%">
+  <h4 align="center">Time-Series Forecasting of Food Prices</h4>
+  <p>Developed a model using time-series analysis to forecast food commodity prices in Indonesia, aiding in policy planning.</p>
+  <p><b>Tech:</b> Time-Series Analysis, Python, Pandas</p>
+  <div align="center">
+    <a href="[LINK_REPOSITORI_PROYEK_INI]"><strong>View on GitHub →</strong></a>
+  </div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <h4 align="center">Student Performance Prediction</h4>
+  <p>A predictive model using Random Forest to classify student performance levels based on academic data.</p>
+  <p><b>Tech:</b> Random Forest, Scikit-learn</p>
+  <div align="center">
+    <a href="[LINK_REPOSITORI_PROYEK_INI]"><strong>View on GitHub →</strong></a>
+  </div>
+</td>
+<td width="50%">
+  <h4 align="center">Household Electricity Usage Prediction</h4>
+  <p>Built a model to estimate daily household electricity consumption using Kaggle datasets to improve energy efficiency insights.</p>
+  <p><b>Tech:</b> Machine Learning, Time-Series Analysis</p>
+  <div align="center">
+    <a href="[LINK_REPOSITORI_PROYEK_INI]"><strong>View on GitHub →</strong></a>
+  </div>
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 My GitHub Stats
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kais-dhovi-alfatah-507162.283">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kais.23167@mhs.unesa.ac.id">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
